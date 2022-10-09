@@ -58,7 +58,6 @@ class Cell:
 
 
 class Board:
-    cellCount = 1
     
     class MoveEnum:
         MIN = "MIN"
