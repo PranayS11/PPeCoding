@@ -1,0 +1,10 @@
+{
+  "N" : 2,
+  "BS" : 10,
+  "S" : 10,
+  "L" : 10,
+  "D" : 2,
+  "MS" : "SUM",
+  "MANUAL_PLAY": true,
+  "ENABLE_TESTING": true
+}
